@@ -1,1 +1,1 @@
-British project for those looking to make something out of life
+British project for those looking to make it in life
