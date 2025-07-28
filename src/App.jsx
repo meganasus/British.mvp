@@ -1,4 +1,4 @@
-import "./components/Home";
+import Home from "./components/Home";
 import { Routes, Route } from "react-router";
 
 const App = () => {
